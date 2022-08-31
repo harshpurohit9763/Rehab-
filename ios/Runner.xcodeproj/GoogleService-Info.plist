@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485069242960-16l2ns6df3rf6r7oi43eesi1s4fo4she.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485069242960-16l2ns6df3rf6r7oi43eesi1s4fo4she</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6ImohMOUuXreeCAYMbd5QA-AxBg16ci8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485069242960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rehab</string>
+	<key>PROJECT_ID</key>
+	<string>rehab-58433</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rehab-58433.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485069242960:ios:3d94375155999345e78755</string>
+	<key>DATABASE_URL</key>
+	<string>https://rehab-58433-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
